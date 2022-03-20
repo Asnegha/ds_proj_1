@@ -31,7 +31,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     jobs = []
 
     while len(jobs) < num_jobs:  #If true, should be still looking for new jobs.
-
+hbAsnegha
         #Let the page load. Change this number based on your internet speed.
         #Or, wait until the webpage is loaded, instead of hardcoding it.
         time.sleep(slp_time)
